@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Learn-React-with-Tailwinds/static/css/main.9380e315.css",
+    "main.js": "/Learn-React-with-Tailwinds/static/js/main.eae90876.js",
+    "static/js/787.8110414c.chunk.js": "/Learn-React-with-Tailwinds/static/js/787.8110414c.chunk.js",
+    "index.html": "/Learn-React-with-Tailwinds/index.html",
+    "main.9380e315.css.map": "/Learn-React-with-Tailwinds/static/css/main.9380e315.css.map",
+    "main.eae90876.js.map": "/Learn-React-with-Tailwinds/static/js/main.eae90876.js.map",
+    "787.8110414c.chunk.js.map": "/Learn-React-with-Tailwinds/static/js/787.8110414c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9380e315.css",
+    "static/js/main.eae90876.js"
+  ]
+}
