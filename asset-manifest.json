@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Learn-React-with-Tailwinds/static/css/main.2741db9c.css",
-    "main.js": "/Learn-React-with-Tailwinds/static/js/main.54778763.js",
+    "main.css": "/Learn-React-with-Tailwinds/static/css/main.2e02545b.css",
+    "main.js": "/Learn-React-with-Tailwinds/static/js/main.9552846a.js",
     "static/js/787.8110414c.chunk.js": "/Learn-React-with-Tailwinds/static/js/787.8110414c.chunk.js",
     "static/media/Technology.png": "/Learn-React-with-Tailwinds/static/media/Technology.3dbe6e71f9cb483ef70d.png",
     "index.html": "/Learn-React-with-Tailwinds/index.html",
-    "main.2741db9c.css.map": "/Learn-React-with-Tailwinds/static/css/main.2741db9c.css.map",
-    "main.54778763.js.map": "/Learn-React-with-Tailwinds/static/js/main.54778763.js.map",
+    "main.2e02545b.css.map": "/Learn-React-with-Tailwinds/static/css/main.2e02545b.css.map",
+    "main.9552846a.js.map": "/Learn-React-with-Tailwinds/static/js/main.9552846a.js.map",
     "787.8110414c.chunk.js.map": "/Learn-React-with-Tailwinds/static/js/787.8110414c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2741db9c.css",
-    "static/js/main.54778763.js"
+    "static/css/main.2e02545b.css",
+    "static/js/main.9552846a.js"
   ]
 }
