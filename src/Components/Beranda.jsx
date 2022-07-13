@@ -18,13 +18,13 @@ function Beranda() {
               Cloud Management
             </h1>
             <p className="text-2xl">This is our tech brand</p>
-            <button className="py-3 px-6 sm:w-[60%] my-4">Get Startted</button>
+            <button className="py-3 px-6 sm:w-[60%] my-4 ">Get Startted</button>
           </div>
           <div>
             <img src={Tech} alt="tech" className="w-full" />
           </div>
           <div
-            className="absolute flex flex-col py-8 md:min-w-[760px] bottom-[5%] mx-1 md:left-1/2 transform 
+            className="absolute flex flex-col py-4 md:min-w-[760px] bottom-[5%] mx-1 md:left-1/2 transform 
           md:-translate-x-1/2 bg-zink-200 border border-slate-300 rounded-xl text-center shadow-xl bg-white "
           >
             <p className="py-4 font-bold">Data services</p>
