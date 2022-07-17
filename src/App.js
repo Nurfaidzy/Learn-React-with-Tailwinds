@@ -3,6 +3,7 @@ import Navbar from "./Components/Navbar";
 import Beranda from "./Components/Beranda";
 import About from "./Components/About";
 import Support from "./Components/Support";
+import Platforms from "./Components/Platform";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Beranda />
       <About />
       <Support />
+      <Platforms />
     </>
   );
 }
