@@ -14,7 +14,6 @@ const Navbar = () => {
               <li>About</li>
               <li>Support</li>
               <li>Platforms</li>
-              <li>Pricing</li>
             </ul>
           </div>
           <div className="hidden md:flex pr-4">
@@ -30,7 +29,6 @@ const Navbar = () => {
           <li className="border-b-2 border-zinc-300 w-full"> About</li>
           <li className="border-b-2 border-zinc-300 w-full"> Support</li>
           <li className="border-b-2 border-zinc-300 w-full"> Platforms</li>
-          <li className="border-b-2 border-zinc-300 w-full"> Pricing</li>
           <div className="flex flex-col my-4">
             <button className="px-8 py-3 m-1">Sign In</button>
             <button className="px-8 py-3 m-1">Sign Up</button>
