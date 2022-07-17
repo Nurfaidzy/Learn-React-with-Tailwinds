@@ -21,8 +21,8 @@ const Platforms = () => {
                   <CheckIcon className="w-10 h-10 text-green-500" />
                 </div>
                 <div className="-my-8  px-12 ">
-                  <p className="font-bold md:text-lg text-sm">Notification</p>
-                  <p className="md:text-xl text-sm">
+                  <p className="font-bold md:text-lg text-xs">Notification</p>
+                  <p className="md:text-xl text-xs">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. In,
                     facere odio. Enim ratione laboriosam tenetur architecto
                     earum quaerat neque. Quis ducimus consequuntur sequi.
@@ -37,8 +37,8 @@ const Platforms = () => {
                   <CheckIcon className="w-10 h-10 text-green-500" />
                 </div>
                 <div className="-my-8  px-12 ">
-                  <p className="font-bold md:text-lg text-sm">Notification</p>
-                  <p className="md:text-xl text-sm">
+                  <p className="font-bold md:text-lg text-xs">Notification</p>
+                  <p className="md:text-xl text-xs">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. In,
                     facere odio. Enim ratione laboriosam tenetur architecto
                     earum quaerat neque. Quis ducimus consequuntur sequi.
@@ -53,8 +53,8 @@ const Platforms = () => {
                   <CheckIcon className="w-10 h-10 text-green-500" />
                 </div>
                 <div className="-my-8  px-12 ">
-                  <p className="font-bold md:text-lg text-sm">Notification</p>
-                  <p className="md:text-xl text-sm">
+                  <p className="font-bold md:text-lg text-xs">Notification</p>
+                  <p className="md:text-xl text-xs">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. In,
                     facere odio. Enim ratione laboriosam tenetur architecto
                     earum quaerat neque. Quis ducimus consequuntur sequi.
@@ -71,8 +71,8 @@ const Platforms = () => {
                   <CheckIcon className="w-10 h-10 text-green-500" />
                 </div>
                 <div className="-my-8  px-12 ">
-                  <p className="font-bold md:text-lg text-sm">Notification</p>
-                  <p className="md:text-xl text-sm">
+                  <p className="font-bold md:text-lg text-xs">Notification</p>
+                  <p className="md:text-xl text-xs">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. In,
                     facere odio. Enim ratione laboriosam tenetur architecto
                     earum quaerat neque. Quis ducimus consequuntur sequi.
@@ -87,8 +87,8 @@ const Platforms = () => {
                   <CheckIcon className="w-10 h-10 text-green-500" />
                 </div>
                 <div className="-my-8  px-12 ">
-                  <p className="font-bold md:text-lg text-sm">Notification</p>
-                  <p className="md:text-xl text-sm">
+                  <p className="font-bold md:text-lg text-xs">Notification</p>
+                  <p className="md:text-xl text-xs">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. In,
                     facere odio. Enim ratione laboriosam tenetur architecto
                     earum quaerat neque. Quis ducimus consequuntur sequi.
@@ -103,8 +103,8 @@ const Platforms = () => {
                   <CheckIcon className="w-10 h-10 text-green-500" />
                 </div>
                 <div className="-my-8  px-12 ">
-                  <p className="font-bold md:text-lg text-sm">Notification</p>
-                  <p className="md:text-xl text-sm">
+                  <p className="font-bold md:text-lg text-xs">Notification</p>
+                  <p className="md:text-xl text-xs">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. In,
                     facere odio. Enim ratione laboriosam tenetur architecto
                     earum quaerat neque. Quis ducimus consequuntur sequi.
