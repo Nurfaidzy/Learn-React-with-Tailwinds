@@ -4,6 +4,7 @@ import Beranda from "./Components/Beranda";
 import About from "./Components/About";
 import Support from "./Components/Support";
 import Platforms from "./Components/Platform";
+import Footer from "./Components/Footer";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <About />
       <Support />
       <Platforms />
+      <Footer />
     </>
   );
 }
