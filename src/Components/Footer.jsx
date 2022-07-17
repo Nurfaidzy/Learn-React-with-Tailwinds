@@ -57,7 +57,7 @@ const Footer = () => {
               type="email"
               name="email"
               id="email"
-              className="rounded-lg lg:w-full lg:h-10 w-[250px] lg:h-10 h-10"
+              className="rounded-lg lg:w-full w-[250px] lg:h-10 h-10"
             />
             <div className=" py-3">
               <input
