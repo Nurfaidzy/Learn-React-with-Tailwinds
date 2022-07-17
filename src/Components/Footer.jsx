@@ -74,6 +74,7 @@ const Footer = () => {
               <iframe
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63751.682060218925!2d99.02581270207062!3d2.964193715195183!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3031845c5ac9d49d%3A0xec50414d3469acee!2sPematang%20Siantar%2C%20Kota%20Pematang%20Siantar%2C%20Sumatera%20Utara!5e0!3m2!1sid!2sid!4v1658049133564!5m2!1sid!2sid"
                 className="w-full h-full pt-3"
+                title="map"
               ></iframe>
             </div>
           </div>
